@@ -35,3 +35,7 @@ To:
 click <b>Split</b> to view <b>Design view</b>
 
 click <b>Run</b> (beside <b>Version Control</b>)
+
+
+To create a <b>Kotlin</b> file:
+> <b>right-click</b> the target folder and select <b>New</b> -> <b>Kotlin Class/File</b>
