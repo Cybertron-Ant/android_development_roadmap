@@ -1,7 +1,6 @@
 # android_development_roadmap
 
 
-
 # Gradle environment variables for Android Studio to install gradle from local file directory, instead of downloading gradle from the internet
 
 press <b>windows key</b> + <b>r -> </b> click <b>Advanced</b> tab -> click <b>Environment variables</b>
@@ -32,7 +31,7 @@ press <b>windows key</b> + <b>r -> </b> click <b>Advanced</b> tab -> click <b>En
 -> paste this:
 <pre><code>%JAVA_HOME%\bin</code></pre>
 
--> click <b>New</b> -> paste this: (depends on where you installed <b>gradle</b>) after going to <b>https://gradle.org/install/</b> -> then scroll and click on <b>Binary-install</b>)
+-> click <b>New</b> -> paste this: (depends on where you installed <b>gradle</b>) after going to <b>https://gradle.org/install/</b> -> then scroll and click on <b>Binary-install</b>, hint: look for the <b>dists</b> folder)
 <pre><code>C:\Program Files\.gradle\wrapper\dists\gradle-8.4-bin</code></pre>
 
 -> click <b>Ok</b>
