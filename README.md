@@ -3,7 +3,7 @@
 
 # Gradle environment variables for Android Studio to install gradle from local file directory, instead of downloading gradle from the internet
 
-press <b>windows key</b> + <b>r -> </b> click <b>Advanced</b> tab -> click <b>Environment variables</b>
+press <b>windows key</b> + <b>r -> type <b>sysdm.cpl</b> -> click <b>Run</b> -> </b> click <b>Advanced</b> tab -> click <b>Environment variables</b>
 <br>
 -> view under <b>User variables</b> -> click <b>New</b> -> for <b>Variable name</b>: type:
 <pre><code>JAVA_HOME</code></pre>
