@@ -6,7 +6,7 @@
 ## Adding 1dp Horizontal Lines using <b>shape</b> element in Android Studio
 
 ## Create a <b>divider_line.xml</b> in the <b>Drawable</b> folder resource:
-   - In the <b>res/drawable</b> directory, create a new XML file called <b>line_divider.xml</b> and paste this:
+   - In the <b>res/drawable</b> directory, create a new XML file called <b>divider_line.xml</b> and paste this:
 
    ```xml
    <!-- res/drawable/divider_line.xml -->
@@ -98,7 +98,7 @@
         android:textSize="30dp"
         android:textStyle="bold" />
 
-    <!-- reference res/drawable/line_divider.xml -->
+    <!-- reference res/drawable/divider_line.xml -->
     <!-- Include the divider_line.xml drawable using the View element -->
     <View
         android:layout_width="match_parent"
@@ -115,7 +115,7 @@
         android:padding="18dp" />
 
 
-    <!-- reference res/drawable/line_divider.xml -->
+    <!-- reference res/drawable/divider_line.xml -->
     <!-- Include the divider_line.xml drawable using the View element -->
     <View
         android:layout_width="match_parent"
@@ -132,7 +132,7 @@
         android:padding="18dp" />
 
 
-    <!-- reference res/drawable/line_divider.xml -->
+    <!-- reference res/drawable/divider_line.xml -->
     <!-- Include the divider_line.xml drawable using the View element -->
     <View
         android:layout_width="match_parent"
@@ -149,7 +149,7 @@
         android:text="Login" />
 
 
-    <!-- reference res/drawable/line_divider.xml -->
+    <!-- reference res/drawable/divider_line.xml -->
     <!-- Include the divider_line.xml drawable using the View element -->
     <View
         android:layout_width="match_parent"
